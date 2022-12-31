@@ -151,6 +151,11 @@ main {
   margin-right: 1.6rem;
 }
 
+ion-icon {
+  color: white;
+  font-size: 2rem;
+}
+
 .share .share-icon {
   background-color: var(--Desaturated-Dark-Blue);
   width: 3.2rem;
